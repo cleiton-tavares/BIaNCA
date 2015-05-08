@@ -1,0 +1,24 @@
+{
+  "name": "BIaNCA",
+  "version": "0.0.1",
+  "description": "Bio Inteligencia artificial Neural com Componentes Alternativos",
+  "dependencies": {
+    "gulp": "*",
+    "gulp-uglify": "*",
+    "gulp-server-livereload": "*",
+    "gulp-inject" : "*",
+    "path": "*"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-uglify": "*",
+    "gulp-server-livereload": "*",
+    "gulp-inject" : "*",
+    "path": "*"
+  },
+  "author": "@cleitontavares",
+  "license": "ISC",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
